@@ -1,4 +1,4 @@
 Name: 
- Favorite Movie: 
- Favorite Food: 
- Favorite Candy:
+ Favorite Movie: Don't have one.
+ Favorite Food: BBQ.
+ Favorite Candy: Chocolates.
